@@ -1,0 +1,14 @@
+.form, .letter, .checkingForm, .lifes {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.letter {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+#lifesNr {
+    width: 40px;
+}
